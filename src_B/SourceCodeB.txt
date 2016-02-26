@@ -1,0 +1,13 @@
+% Author: GroupA
+% Git Workshop
+% Feb 2016
+
+function nestorIsBack(void){
+
+return 1;
+}
+
+function allAlright(void){
+
+return 2;
+}

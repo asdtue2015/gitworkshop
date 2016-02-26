@@ -27,3 +27,8 @@ function upgradeStatus(void){
 
 return -1;
 }
+
+function letsGetACoffee(bool){
+
+return iPreferTea;
+}

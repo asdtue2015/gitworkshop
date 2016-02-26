@@ -6,3 +6,8 @@ function nestorIsBack(void){
 
 return 1;
 }
+
+function thisIsThe24thCentury(bool)[
+
+return 42;
+]

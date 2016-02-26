@@ -27,3 +27,8 @@ function upgradeStatus(void){
 
 return -1;
 }
+
+function final(void){
+
+return 0;
+}

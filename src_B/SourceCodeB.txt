@@ -18,8 +18,12 @@ function allAlright(void){
 return 2;
 }
 
-function upgradeStatus(void){
+function yetAnotherFunction(int){
 
+return something;
+}
+
+function upgradeStatus(void){
 
 return -1;
 }

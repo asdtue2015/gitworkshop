@@ -1,0 +1,38 @@
+% Author: GroupB
+% Git Workshop
+% Feb 2016
+
+function nestorIsBack(void){
+
+return 1;
+}
+
+function thisIsThe24thCentury(bool)}
+
+return 42;
+}
+
+function allAlright(void){
+
+return 2;
+}
+
+function yetAnotherFunction(int){
+
+return something;
+}
+
+function upgradeStatus(void){
+
+return -1;
+}
+
+function letsGetACoffee(bool){
+
+return iPreferTea;
+}
+
+function final(void){
+
+return 0;
+}

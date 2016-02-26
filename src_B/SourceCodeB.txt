@@ -1,4 +1,4 @@
-% Author: GroupB
+% Author: GroupA
 % Git Workshop
 % Feb 2016
 
@@ -16,9 +16,4 @@ return 42;
 function allAlright(void){
 
 return 2;
-}
-
-function upgradeStatus(void){
-
-return -1;
 }
